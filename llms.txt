@@ -1,2 +1,25 @@
 # Oakville Plumbing Pros
-HVAC services in Ontario.
+
+> Oakville Plumbing Pros is a local HVAC company serving Oakville, Halton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 845-3072  |  Email: contact@oakvilleplumbingpros.ca  |  Website: https://oakvilleplumbingpros.ca
+
+## Key pages
+
+- [Home](https://oakvilleplumbingpros.ca/): Oakville Plumbing Pros homepage with service overview and FAQ
+- [About](https://oakvilleplumbingpros.ca/about/): About the company and service area
+- [Contact](https://oakvilleplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://oakvilleplumbingpros.ca/services/water-heaters/): Water Heaters in Oakville, Ontario
+- [Drain Cleaning](https://oakvilleplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Oakville, Ontario
+- [Repiping](https://oakvilleplumbingpros.ca/services/repiping/): Repiping in Oakville, Ontario
+- [Fixtures & Toilets](https://oakvilleplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Oakville, Ontario
+- [Leak Detection & Repair](https://oakvilleplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Oakville, Ontario
+- [Sump Pumps & Backwater](https://oakvilleplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Oakville, Ontario
+- [Water Softeners & Filtration](https://oakvilleplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Oakville, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Oakville are answered on the homepage.
